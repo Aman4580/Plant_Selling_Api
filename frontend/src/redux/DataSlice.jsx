@@ -3,9 +3,10 @@ import React from 'react'
 const DataSlice = () => {
     return (
         <div>
-            slice for 
+           configure data slice
         </div>
     )
 }
 
 export default DataSlice
+
