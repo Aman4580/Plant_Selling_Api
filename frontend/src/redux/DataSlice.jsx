@@ -3,7 +3,7 @@ import React from 'react'
 const DataSlice = () => {
     return (
         <div>
-            slice for consuider the api of data
+            slice for 
         </div>
     )
 }
